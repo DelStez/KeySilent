@@ -1,5 +1,5 @@
 @Echo off
 
-start "" "C:\KeySilent.pyw"
+start "" "G:\GitHub\KeySilent\run.py"
 
-start "" "C:\Program Files\Operalauncher.exe"
+start "" "F:\Call of Duty - Modern Warfare 2\iw4sp.exe"
